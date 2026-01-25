@@ -2,4 +2,5 @@ LLM stands for Large Language Model.
 RAG means Retrieval Augmented Generation.
 Ollama runs LLMs locally.
 Gemma is created by Google.
-Gemma model curretly used is Gemma3:4B
+Gemma model curretly used is Gemma3:4B.
+RAG is useful for Large Language Models (LLMs).
